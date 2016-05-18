@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?><project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/clienteJedis.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/serializador.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/login.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/Principal.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/configuracion.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/PeticionesWeb.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/NanozNotificacion.java</file>
+        </group>
+    </open-files>
+</project-private>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/redis/clients/jedis/JedisPubSub.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/redis/clients/jedis/Jedis.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/clienteJedis.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/serializador.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/login.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/Principal.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/PeticionesWeb.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/jsonToString.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/redis/clients/jedis/Client.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/NanozNotificacion.java</file>
+            <file>file:/C:/Users/rkrd_/Desktop/nanozKarussa3/karussa_java/java/KarussaApp/src/Version/n1/panelNavegador.java</file>
+        </group>
+    </open-files>
+</project-private>
+>>>>>>> e52375d567f5c6ccfc7490b88799de7ad9aab536
